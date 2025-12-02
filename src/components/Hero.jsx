@@ -13,7 +13,7 @@ const Hero = () => {
             , Software engineer graduate
         </h1>
         <p className='mt-4 text-lg text-gray-300'>
-            Proficient level in Java, Springboot, Python and Html/CSS.
+            Proficient level in Java, Springboot, Angular and Python.
         </p>
     </div>
   )

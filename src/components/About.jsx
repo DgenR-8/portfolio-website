@@ -44,7 +44,7 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  Python
+                  Angular
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
@@ -55,7 +55,7 @@ const About = () => {
               </div>
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  HTML / CSS
+                  Python
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div

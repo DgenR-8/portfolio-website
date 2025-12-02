@@ -10,7 +10,7 @@ const projects = [
   {
     id: 1,
     name: "Employee management fullstack appllication",
-    technologies: "Java + HTML/CSS + MySQL + Springboot + Bootstrap",
+    technologies: "Java + Springboot + Angular + MySQL + Bootstrap",
     image: emwaImage,
     github: "https://github.com/DgenR-8/employee-management-web-app",
   },
